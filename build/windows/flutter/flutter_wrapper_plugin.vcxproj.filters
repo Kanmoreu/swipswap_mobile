@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\1. Tugas Kuliah\#Semester 6\Aplikasi Berbasis Platform\Tubes\Mobile\swipswap_mobile\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1. Tugas Kuliah\#Semester 6\Aplikasi Berbasis Platform\Tubes\Mobile\swipswap_mobile\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1. Tugas Kuliah\#Semester 6\Aplikasi Berbasis Platform\Tubes\Mobile\swipswap_mobile\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\1. Tugas Kuliah\#Semester 6\Aplikasi Berbasis Platform\Tubes\Mobile\swipswap_mobile\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E732DC69-8958-343B-87E0-9D05A41BD762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FC40B7F3-4082-39D5-A8AC-0124B469865B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
